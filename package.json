@@ -1,0 +1,14 @@
+
+   
+{
+    "name": "readme.md-generator",
+    "version": "1.0.0",
+    "description": "Generate a quality readme",
+    "main": "index.js",
+    "bin": "index.js",
+    "keywords": [
+      "readme",
+      "readme generator"
+
+    }
+  }
